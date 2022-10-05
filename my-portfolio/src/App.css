@@ -1,5 +1,13 @@
+:root{
+  --blue: #00B9AE;
+  --teal: #037171;
+  --green: #03312E;
+  --gray: #222;
+  --white: #e7eaea;
+}
 .App {
   text-align: center;
+  background-color: var(--blue);
 }
 
 .App-logo {
@@ -14,7 +22,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: var(--white);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
