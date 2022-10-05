@@ -1,7 +1,7 @@
 // import headBackground from './images/keyboard_2.jpg';
 import './App.css';
 import Intro from "./components/Intro"
-import Work from "./components/Work"
+import Use from "./components/Use"
 
 function App() {
   return (
@@ -9,7 +9,6 @@ function App() {
       <header className="App-header">
         <nav>
           <ul className="nav">
-            <li><a href="#intro" alt="home link">Introduction</a></li>
             <li><a href="#services" alt="services link">What I do</a></li>
             <li><a href="#tech" alt="technologies link">What I use</a></li>
             <li><a href="#contact" alt="contact link">Contact</a></li>
@@ -20,7 +19,7 @@ function App() {
         <div className="container-main">
           <Intro />
           <br/>
-          <Work />
+          <Use />
         </div>
       </main>
       <footer>
