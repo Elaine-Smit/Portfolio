@@ -1,6 +1,7 @@
 // import headBackground from './images/keyboard_2.jpg';
 import './App.css';
-import Intro from "./components/Intro.js"
+import Intro from "./components/Intro"
+import Work from "./components/Work"
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
       <main>
         <div className="container-main">
           <Intro />
+          <br/>
+          <Work />
         </div>
       </main>
       <footer>
