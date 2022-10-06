@@ -176,9 +176,9 @@ nav{
   margin-top: 1px;
 }
 .work-container{
-  background-color: #000;
-  color: var(--white);
-  text-shadow: 0 0 5px var(--blue);
+  background-color: var(--white);
+  color: var(--gray);
+  text-shadow: 0 0 7px var(--blue);
   height: 100vh;
   margin-top: 200px;
 
@@ -189,7 +189,18 @@ nav{
 }
 .work-head, .work-sub, .work-footer{
   grid-column: 1/-1;
-  background-color: #333;
+  background-color: var(--white);
+  text-align: center;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.work-head{
+  font-size: 2rem;
+}
+.logo{
+  max-height: 100px;
 }
 
 @keyframes App-logo-spin {
