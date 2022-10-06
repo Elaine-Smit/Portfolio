@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8220140.css",
-    "main.js": "/static/js/main.9078088e.js",
+    "main.css": "/static/css/main.5c5226b5.css",
+    "main.js": "/static/js/main.87d8c92c.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/tech_1.jpg": "/static/media/tech_1.f831ad9a4390116a0cad.jpg",
     "static/media/draw_1.jpg": "/static/media/draw_1.98e5e90c296a75b5cee0.jpg",
+    "static/media/NET_Core_Logo.png": "/static/media/NET_Core_Logo.4889519c4b8cdad29341.png",
+    "static/media/adobe-suite-logo.png": "/static/media/adobe-suite-logo.96f568deb7defe286d31.png",
+    "static/media/react-logo.png": "/static/media/react-logo.358d40a0ce802e9277e4.png",
+    "static/media/html-logo.png": "/static/media/html-logo.e8b2168336d9d4bc0a1f.png",
+    "static/media/css-logo.png": "/static/media/css-logo.cfe09e191b5c39bc61be.png",
+    "static/media/node-logo.png": "/static/media/node-logo.f58c7bc5b4075d4b4247.png",
+    "static/media/js-logo.png": "/static/media/js-logo.167174536e4b658fd79a.png",
+    "static/media/cSharp.svg": "/static/media/cSharp.a7ec03d256f307422701fb3e4c812f76.svg",
+    "static/media/bootstrap-logo-vector.svg": "/static/media/bootstrap-logo-vector.d180fe4cd44732fd70b35f650a76b99c.svg",
     "index.html": "/index.html",
-    "main.e8220140.css.map": "/static/css/main.e8220140.css.map",
-    "main.9078088e.js.map": "/static/js/main.9078088e.js.map",
+    "main.5c5226b5.css.map": "/static/css/main.5c5226b5.css.map",
+    "main.87d8c92c.js.map": "/static/js/main.87d8c92c.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8220140.css",
-    "static/js/main.9078088e.js"
+    "static/css/main.5c5226b5.css",
+    "static/js/main.87d8c92c.js"
   ]
 }

@@ -2,6 +2,7 @@
 import './App.css';
 import Intro from "./components/Intro"
 import Use from "./components/Use"
+import About from "./components/About"
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Intro />
           <br/>
           <Use />
+          <About />
         </div>
       </main>
       <footer>

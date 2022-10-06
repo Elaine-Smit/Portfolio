@@ -53,10 +53,6 @@ export default function Use(){
                 <h3>Node</h3>
                 <img src={Node}  alt="CSS logo" className="react logo"/>
             </div>
-            <div className="work-footer">
-                <h3>Footer</h3>
-                <p></p>
-            </div>
         </div>
     )
 }
