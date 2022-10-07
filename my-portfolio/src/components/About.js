@@ -29,6 +29,11 @@ export default function About(){
                         Nothing feels better than being able to do anything you want.
                     </p>
                 </div>
+                <div className="work-display">
+                    <h2>I will be updating my work and projects on a regular basis and as i learn new things.</h2>
+                    <br/>
+                    <a href="work" className="btn-work-dark">See my work</a>
+                </div>
             </div>
         </div>
     )

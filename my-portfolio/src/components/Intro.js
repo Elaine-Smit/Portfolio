@@ -11,7 +11,7 @@ export default function Introduction(){
             </div>
             <div className="main-body">
                 <div className="what-i-do">
-                    <h1>What I do <small>...for now</small></h1>
+                    <h1>What I do</h1>
                     
                     <img className="dec-img" src={DecImage} alt=""/>
                 </div>
@@ -37,7 +37,7 @@ export default function Introduction(){
                                 From downloadable content to physical products.
                                 <br/>
                                 <br/>
-                                I can Get you product in the markets ready for sale.
+                                I can get you product in the markets ready for sale.
                             </p>
                         </div>
                         <div>

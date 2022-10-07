@@ -238,9 +238,47 @@ nav{
   margin-top: 20vh;
   right: 40vw;
 }
+.work-display{
+  position: relative;
+  top: 80vh;
+}
 .about-p > p{
   word-spacing: 0.1rem;
   letter-spacing: 0.2rem;
+}
+.btn-work-dark{
+  background-color: var(--gray);
+  color: var(--blue);
+  border-radius: 5px;
+  padding: 10px 30px;
+
+  text-decoration: none;
+
+  box-shadow: 0 0 5px var(--gray);
+}
+.btn-work-dark:hover{
+  padding: 9px 29px;
+}
+.bottom-info{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  height: 100px;
+
+  background-color: var(--gray);
+  color: var(--white);
+}
+.fa-brands{
+  font-size: 2rem;
+  color: var(--white);
+
+  cursor: pointer;
+  transition: 0.2s linear;
+}
+.fa-brands:hover{
+  color: var(--blue);
+  text-shadow: 0 0 3px var(--teal);
 }
 
 @keyframes App-logo-spin {
