@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.08d9d04e.css",
-    "main.js": "/static/js/main.c7eb3b82.js",
+    "main.css": "/static/css/main.92bcf943.css",
+    "main.js": "/static/js/main.1abc64de.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/tech_4.jpg": "/static/media/tech_4.22b670168844e7333ad6.jpg",
     "static/media/tech_1.jpg": "/static/media/tech_1.f831ad9a4390116a0cad.jpg",
     "static/media/draw_1.jpg": "/static/media/draw_1.98e5e90c296a75b5cee0.jpg",
     "static/media/NET_Core_Logo.png": "/static/media/NET_Core_Logo.4889519c4b8cdad29341.png",
@@ -15,12 +16,12 @@
     "static/media/cSharp.svg": "/static/media/cSharp.a7ec03d256f307422701fb3e4c812f76.svg",
     "static/media/bootstrap-logo-vector.svg": "/static/media/bootstrap-logo-vector.d180fe4cd44732fd70b35f650a76b99c.svg",
     "index.html": "/index.html",
-    "main.08d9d04e.css.map": "/static/css/main.08d9d04e.css.map",
-    "main.c7eb3b82.js.map": "/static/js/main.c7eb3b82.js.map",
+    "main.92bcf943.css.map": "/static/css/main.92bcf943.css.map",
+    "main.1abc64de.js.map": "/static/js/main.1abc64de.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08d9d04e.css",
-    "static/js/main.c7eb3b82.js"
+    "static/css/main.92bcf943.css",
+    "static/js/main.1abc64de.js"
   ]
 }
